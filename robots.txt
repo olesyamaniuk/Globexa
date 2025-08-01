@@ -3,4 +3,4 @@ Disallow: /admin/
 Disallow: /private/
 Allow: /
 
-Sitemap: https://globero.site/sitemap.xml
+Sitemap: https://globexa.site/sitemap.xml
